@@ -1,0 +1,7 @@
+{
+  "name": "Universal Movies Hub",
+  "description": "A premium OTT streaming platform featuring a futuristic cinematic design, AI-powered recommendations, and a comprehensive admin dashboard.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
